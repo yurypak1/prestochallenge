@@ -1,6 +1,6 @@
 package com.example.prestochallenge
 
-val baseUrl = "www.amazon.com"
+val baseUrl = "amazon.com"
 val appPackage = "com.android.chrome"
-val globalTimeout = 5000L
+val globalTimeout = 10000L
 val searchInput = "Headphones"

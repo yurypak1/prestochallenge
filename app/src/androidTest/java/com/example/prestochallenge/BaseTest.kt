@@ -60,5 +60,5 @@ open class BaseTest {
             Until.hasObject(By.pkg(appPackage).depth(0)),
             globalTimeout
         )
-    }
+        }
 }
